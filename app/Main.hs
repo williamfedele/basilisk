@@ -1,7 +1,6 @@
 module Main where
 
 import Basilisk (formatWarning, lint)
-import Data.Text (Text, unpack)
 import qualified Data.Text as T
 
 main :: IO ()
